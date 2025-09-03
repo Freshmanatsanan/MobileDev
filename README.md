@@ -10,3 +10,5 @@
   - Search ค้นหาได้
   - ปุ่ม Create Team (กดได้ก็ต่อเมื่อเลือกครบ 3)
   - หน้า My Teams แสดงทีมที่บันทึก
+  - #การรัน
+  - cd เข้า myapp แล้วใช้คำสั่ง flutter run -d chrome
